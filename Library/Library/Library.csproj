@@ -8,4 +8,9 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Library\" />
+    <Folder Include="User\" />
+  </ItemGroup>
+
 </Project>
