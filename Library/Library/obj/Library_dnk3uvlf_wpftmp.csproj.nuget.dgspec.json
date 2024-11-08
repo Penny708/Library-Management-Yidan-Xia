@@ -52,11 +52,11 @@
           "dependencies": {
             "MaterialDesignColors": {
               "target": "Package",
-              "version": "[2.1.4, )"
+              "version": "[3.1.0, )"
             },
             "MaterialDesignThemes": {
               "target": "Package",
-              "version": "[4.9.0, )"
+              "version": "[5.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",

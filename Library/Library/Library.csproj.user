@@ -13,6 +13,9 @@
     <Compile Update="Main\Login.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Main\Register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Main\ChangePassword.xaml">
@@ -22,6 +25,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Main\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Main\Register.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

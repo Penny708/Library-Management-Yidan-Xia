@@ -22,6 +22,6 @@
     <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\22861\.nuget\packages\microsoft.web.webview2\1.0.864.35</PkgMicrosoft_Web_WebView2>
     <PkgMicrosoft_VisualStudio_Composition_Analyzers Condition=" '$(PkgMicrosoft_VisualStudio_Composition_Analyzers)' == '' ">C:\Users\22861\.nuget\packages\microsoft.visualstudio.composition.analyzers\17.11.13</PkgMicrosoft_VisualStudio_Composition_Analyzers>
     <PkgMicrosoft_ServiceHub_Analyzers Condition=" '$(PkgMicrosoft_ServiceHub_Analyzers)' == '' ">C:\Users\22861\.nuget\packages\microsoft.servicehub.analyzers\4.6.13</PkgMicrosoft_ServiceHub_Analyzers>
-    <PkgMaterialDesignThemes Condition=" '$(PkgMaterialDesignThemes)' == '' ">C:\Users\22861\.nuget\packages\materialdesignthemes\4.9.0</PkgMaterialDesignThemes>
+    <PkgMaterialDesignThemes Condition=" '$(PkgMaterialDesignThemes)' == '' ">C:\Users\22861\.nuget\packages\materialdesignthemes\5.1.0</PkgMaterialDesignThemes>
   </PropertyGroup>
 </Project>
