@@ -15,10 +15,11 @@
             <RowDefinition Height="10*"/>
             <RowDefinition Height="10*"/>
         </Grid.RowDefinitions>
-        <Label Content="My First Library" Grid.Row="0" FontWeight="Bold" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label Content="My First Library" Grid.Row="0" FontWeight="Bold" FontSize="35" VerticalAlignment="Center" HorizontalAlignment="Center"/>
         <Label Content="Information Management System" Grid.Row="1" FontWeight="Bold" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
         <Label Content="Welcome!" Grid.Row="2" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center"/>
         <Button x:Name="LoginButton" Grid.Row="3" Content="Login" VerticalAlignment="Center" HorizontalAlignment="Center" Click="LoginButton_Click"/>
         <Label Content="If you are using this software for the first time, please register first:" Grid.Row="4" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button x:Name="RegisterButton" Grid.Row="5" Content="Register" VerticalAlignment="Center" HorizontalAlignment="Center" Click="RegisterButton_Click"/>
     </Grid>
 </Window>
