@@ -1,0 +1,8 @@
+D:\Honer Project\LMS\Library\Library\obj\Debug\net8.0-windows\Library.csproj.AssemblyReference.cache
+D:\Honer Project\LMS\Library\Library\obj\Debug\net8.0-windows\Main\ChangePassword.g.cs
+D:\Honer Project\LMS\Library\Library\obj\Debug\net8.0-windows\Main\Login.g.cs
+D:\Honer Project\LMS\Library\Library\obj\Debug\net8.0-windows\Main\MainWindow.g.cs
+D:\Honer Project\LMS\Library\Library\obj\Debug\net8.0-windows\Main\Register.g.cs
+D:\Honer Project\LMS\Library\Library\obj\Debug\net8.0-windows\App.g.cs
+D:\Honer Project\LMS\Library\Library\obj\Debug\net8.0-windows\Library_MarkupCompile.cache
+D:\Honer Project\LMS\Library\Library\obj\Debug\net8.0-windows\Library_MarkupCompile.lref
