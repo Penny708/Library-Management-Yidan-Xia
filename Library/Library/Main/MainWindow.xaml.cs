@@ -20,5 +20,18 @@ namespace Library
         {
             InitializeComponent();
         }
+
+        private void LoginButton_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Login window = new Main.Login();
+            window.Show();
+            this.Close();
+        }
+
+        private void RegisterButton_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Register window = new Main.Register();
+            window.ShowDialog();
+        }
     }
 }
